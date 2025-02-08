@@ -50,5 +50,5 @@ Easily test APIs via **Swagger UI**.
 ## 🛠️ Setup Instructions
 ### 🔹 **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/SpringBoot-Blog-App.git
+git clone [https://github.com/your-username/SpringBoot-Blog-App.git](https://github.com/AjayWankhade/SpringBoot-Blog-App)
 cd SpringBoot-Blog-App
